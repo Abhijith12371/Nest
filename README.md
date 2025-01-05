@@ -52,7 +52,7 @@ pip install -r requirements.txt
 3. **Prepare Input Data:**
 
    - Place the clinical trial JSON file in the root directory (e.g., `response.json`).
-   - Ensure the eligibility criteria file (e.g., `eligibilities.txt`) is formatted as pipe-separated values (|). Note that the eligibilities are provided in brief case format.
+   - Ensure the eligibility criteria file (e.g., `eligibilities.txt` which will be found in the brief case of nest) is formatted as pipe-separated values (|). Note that the eligibilities are provided in brief case format.
 
 4. **Run the Application:**
 
